@@ -1,0 +1,11 @@
+App Tu Dien
+Tinh nang : Them , Sua, Xoa, 
+		Import tu 1file - 1 luc nhieu file, mutil-theard, mot file/1 theard, theard-pool
+
+2 Panel: tra tu - tra nghia
+
+Xu ly loi : 2 theard tim kiem 2 tu cung  1 luc
+
+Hoc duoc cach : tao theard
+	synchronyzed
+	dung java collection - load tung chu cai
